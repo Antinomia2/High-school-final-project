@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.elaboratocookaroo">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ElaboratoCookaroo"
+        tools:replace="android:theme">
+        <activity android:name=".Activity.PrenotaPosti"></activity>
+        <activity android:name=".Activity.DishesChart" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/map_key" />
+
+        <activity android:name=".Activity.Locals" />
+        <activity android:name=".Activity.Riepilogo" />
+        <activity android:name=".Activity.CardActivity" />
+        <activity android:name=".Activity.Comment" />
+        <activity android:name=".Activity.FoodDetail" />
+        <activity android:name=".Activity.Food" />
+        <activity
+            android:name=".Activity.FoodCategories"
+            android:theme="@style/Theme.MaterialComponents.Light" />
+        <activity android:name=".Activity.CartActivity" />
+        <activity android:name=".Activity.RegisterActivity" />
+        <activity android:name=".Activity.LoginActivity" />
+        <activity android:name=".Activity.Intro" />
+        <activity android:name=".Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

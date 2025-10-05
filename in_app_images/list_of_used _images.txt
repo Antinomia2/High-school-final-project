@@ -1,0 +1,35 @@
+IMMAGINE DEL LINK NELLA COLONNA "image"
+
++-----------+---------------------------------------------------------+
+| nome      | image                                                   |
++-----------+---------------------------------------------------------+
+| Birra     | https://i.ibb.co/7bBTB5x/birra-removebg-preview.png     |
+| Dolce     | https://i.ibb.co/YWNjKY8/dolce-removebg-preview.png     |
+| Hamburger | https://i.ibb.co/Q9R85K2/hamburger-removebg-preview.png |
+| Pizza     | https://i.ibb.co/s9b1j1L/pizza.png                      |
+| Seafood   | https://i.ibb.co/rcVXFD2/seafood-removebg-preview.png   |
+| Soda      | https://i.ibb.co/vcdMF2N/soda-removebg-preview.png      |
+| Spaghetti | https://i.ibb.co/j4Ph183/spaghetti-removebg-preview.png |
+| Sushi     | https://i.ibb.co/gSjFNT7/sushi.png                      |
++-----------+---------------------------------------------------------+
+
+
++--------------------------------------+----------------------+-------------+--------+-----------------+---------------------------------------------------------------------------+-----------+
+| codicep                              | nome                 | numerazione | prezzo | avg_valutazione | image                                                                     | tipologia |
++--------------------------------------+----------------------+-------------+--------+-----------------+---------------------------------------------------------------------------+-----------+
+| 227c2bfa-c05b-11eb-86ca-4ccc6a830121 | Hosomaki             |           3 |   3.49 |               4 | https://i.ibb.co/sKVhY2q/hosomaki-removebg-preview.png                    | Sushi     |
+| 5c2f5591-c05c-11eb-86ca-4ccc6a830121 | Asahi                |           4 |   3.49 |               0 | https://i.ibb.co/x5byLYK/asahi-removebg-preview.png                       | Birra     |
+| 7755c76c-c059-11eb-86ca-4ccc6a830121 | Uramaki              |           1 |   4.99 |             3.5 | https://i.ibb.co/5xxXmw4/california-removebg-preview.png                  | Sushi     |
+| 7a1af67a-c05c-11eb-86ca-4ccc6a830121 | Heineken             |           5 |   3.99 |               0 | https://i.ibb.co/FHxqs01/heineken-removebg-preview.png                    | Birra     |
+| 7a39c152-c05a-11eb-86ca-4ccc6a830121 | Nigiri               |           2 |   3.99 |               3 | https://i.ibb.co/P4kNKg2/salmonnigiri-removebg-preview.png                | Sushi     |
+| 88d0f0d5-c1af-11eb-86ca-4ccc6a830121 | Spaghetti FruttiMare |           8 |  12.99 |               0 | https://i.ibb.co/XYTqdtt/spaghetti-ai-frutti-di-mare-removebg-preview.png | Spaghetti |
+| b2a36471-c05c-11eb-86ca-4ccc6a830121 | Lager                |           6 |   4.49 |               0 | https://i.ibb.co/KsWZK94/lager-removebg-preview.png                       | Birra     |
+| d70859d9-c05c-11eb-86ca-4ccc6a830121 | Moretti              |           7 |   3.79 |               0 | https://i.ibb.co/C9Sq5bY/moretti-removebg-preview.png                     | Birra     |
+| dcc0fcb4-c1b0-11eb-86ca-4ccc6a830121 | FruttiMare misto     |           9 |  14.99 |               0 | https://i.ibb.co/ZS63rfn/OLYMPUS-DIGITAL-CAMERA.jpg                       | Seafood   |
+| f40fb686-c1b1-11eb-86ca-4ccc6a830121 | Spaghetti freddi     |          10 |   9.99 |               0 | https://i.ibb.co/tmDngRP/spaghettifreddi-removebg-preview.png             | Spaghetti |
++--------------------------------------+----------------------+-------------+--------+-----------------+---------------------------------------------------------------------------+-----------+
+
+
+
+
+

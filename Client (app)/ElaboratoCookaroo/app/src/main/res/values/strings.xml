@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ElaboratoCookaroo</string>
+    <string name="title1">Cookaroo</string>
+    <string name="title2">Welcome</string>
+    <string name="title3">GO!</string>
+    <string name="description1">Descrizione slide UNO...</string>
+    <string name="description2">Descrizione slide DUE...</string>
+    <string name="description3">Descrizione slide TRE...</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

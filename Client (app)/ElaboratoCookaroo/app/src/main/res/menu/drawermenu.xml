@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Profilo">
+        <menu>
+            <item android:id="@+id/carrello" android:title="Carrello" android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+            <item android:id="@+id/area" android:title="Cronologia piatti" android:icon="@drawable/ic_baseline_history_24"/>
+            <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_baseline_logout_24"/>
+        </menu>
+    </item>
+    <item android:title="Cookaroo">
+        <menu>
+            <item android:id="@+id/prenotazione" android:title="Prenotazione Tavolo" android:icon="@drawable/ic_baseline_phone_24"/>
+            <item android:id="@+id/sedi" android:title="Le nostre sedi" android:icon="@drawable/ic_baseline_swap_calls_24"/>
+        </menu>
+    </item>
+</menu>

@@ -5,5 +5,6 @@ Simulates online food ordering on localhost through Java sockets and a MySQL db.
 
 ## Video demo
 
-[![Watch the video](https://img.youtube.com/vi/x0KUmu2s1Ig/0.jpg)]
+![Watch the video](https://img.youtube.com/vi/x0KUmu2s1Ig/0.jpg)<br>
+<br>
 [Watch demo on YouTube](https://www.youtube.com/watch?v=x0KUmu2s1Ig)
